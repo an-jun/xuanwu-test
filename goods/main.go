@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/an-jun/xuantu-test/conf"
-	"github.com/an-jun/xuantu-test/sign"
+	"github.com/an-jun/xuanwu-test/conf"
+	"github.com/an-jun/xuanwu-test/sign"
 )
 
 type GoodsRequest struct {
